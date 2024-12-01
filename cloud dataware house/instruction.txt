@@ -1,0 +1,10 @@
+all data to s3
+10 crawlers==>athena
+ateana query
+table in athena to redshift
+
+create s3 bucket
+create glue database
+create glue 10 crawler=>iam==s3 access==>same database==>s3 csv.path
+check table
+
